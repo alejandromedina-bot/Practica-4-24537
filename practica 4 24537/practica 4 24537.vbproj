@@ -122,5 +122,8 @@
   <ItemGroup>
     <None Include="Resources\caratula2.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caratula engrane2.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
