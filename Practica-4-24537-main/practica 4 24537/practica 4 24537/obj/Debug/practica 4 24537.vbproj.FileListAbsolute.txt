@@ -1,0 +1,12 @@
+C:\Alejandro Medina 24537\practica 4 24537\practica 4 24537\obj\Debug\practica 4 24537.vbprojAssemblyReference.cache
+C:\Alejandro Medina 24537\practica 4 24537\practica 4 24537\obj\Debug\practica_4_24537.Form1.resources
+C:\Alejandro Medina 24537\practica 4 24537\practica 4 24537\obj\Debug\practica_4_24537.Resources.resources
+C:\Alejandro Medina 24537\practica 4 24537\practica 4 24537\obj\Debug\practica 4 24537.vbproj.GenerateResource.cache
+C:\Alejandro Medina 24537\practica 4 24537\practica 4 24537\obj\Debug\practica 4 24537.vbproj.CoreCompileInputs.cache
+C:\Alejandro Medina 24537\practica 4 24537\practica 4 24537\bin\Debug\practica 4 24537.exe.config
+C:\Alejandro Medina 24537\practica 4 24537\practica 4 24537\bin\Debug\practica 4 24537.exe
+C:\Alejandro Medina 24537\practica 4 24537\practica 4 24537\bin\Debug\practica 4 24537.pdb
+C:\Alejandro Medina 24537\practica 4 24537\practica 4 24537\bin\Debug\practica 4 24537.xml
+C:\Alejandro Medina 24537\practica 4 24537\practica 4 24537\obj\Debug\practica 4 24537.exe
+C:\Alejandro Medina 24537\practica 4 24537\practica 4 24537\obj\Debug\practica 4 24537.xml
+C:\Alejandro Medina 24537\practica 4 24537\practica 4 24537\obj\Debug\practica 4 24537.pdb
